@@ -21,3 +21,7 @@ value.collage.color={
     v:"a",
 }
 console.log(value.collage.color)
+
+const str = "Hello";
+str[0] = "h";
+console.log(str);
